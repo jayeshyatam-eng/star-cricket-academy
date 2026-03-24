@@ -28,7 +28,7 @@ import {
 } from "lucide-react";
 
 const TEAM_PHOTO = "/input_file_0.png";
-const LOGO = "/input_file_1.png";
+const LOGO = "/input_file_3.png";
 const NET_SESSION = "/input_file_2.png";
 
 const MAPS_BORIVALI = "https://www.google.com/maps/place/Star+cricket+academy/@19.2225277,72.8330476,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b1ad81125599:0xeca85b3148df6577!8m2!3d19.2225227!4d72.837661!16s%2Fg%2F11sgvlj3sc";
